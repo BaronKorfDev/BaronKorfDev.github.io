@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(22, 22, 22);
+}
+h1{
+    width: 165px;
+}
+p{
+    color:  white;
+    width: 235px;
+}
+h1{
+    color: white;
+    width: 110px;
+    justify-content: space-between;
+}
+h2{
+    color: white;
+}
+
+a{
+    color: bisque;
+    text-decoration: none;
+    display: inline-block;
+}
+li{
+    color: bisque;
+}
